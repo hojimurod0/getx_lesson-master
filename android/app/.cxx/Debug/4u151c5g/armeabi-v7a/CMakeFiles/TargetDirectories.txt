@@ -1,0 +1,2 @@
+D:/My flutter 5-oy/getx_lesson-master/android/app/.cxx/Debug/4u151c5g/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/My flutter 5-oy/getx_lesson-master/android/app/.cxx/Debug/4u151c5g/armeabi-v7a/CMakeFiles/rebuild_cache.dir
